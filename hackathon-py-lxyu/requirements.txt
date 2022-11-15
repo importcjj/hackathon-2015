@@ -7,3 +7,4 @@ meinheld>=0.5.8
 pymysql>=0.6.7
 redis>=2.10.3
 ujson>=1.33
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
